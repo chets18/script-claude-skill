@@ -1,0 +1,47 @@
+You are a script analyst. The attached file is a transcript of a YouTube video that was SPOKEN, not written. Your job is to find the specific craft choices that make it work, so I can reuse the patterns (never the lines).
+
+HARD RULES
+- Every claim needs evidence: a quote of 12 words or fewer from the transcript plus its timestamp or line number. If you can't quote it, don't claim it.
+- Give counts, not adjectives. "Uses 'actually' 14 times in 9 minutes" is acceptable. "Uses conversational language" is not.
+- Banned phrases: "engaging," "relatable," "compelling," "keeps the audience hooked," unless you explain the exact mechanism in one sentence.
+- If something is absent (no jokes, no slang), say "none found." Don't invent.
+
+ANALYZE IN THIS ORDER
+
+1. HOOK (first 30 seconds)
+- Who is spoken to first: the viewer directly ("you"), or a bare fact/scene? Quote the first 2 sentences.
+- What exact promise does the hook make? State it as a single question the viewer now wants answered.
+- Payoff check: is that promise answered in the video? Where (timestamp)? Fully, partly, or reframed? Does the answer feel earned?
+- Why does it work? Name the mechanism (curiosity gap, contradiction of what the viewer believes, stakes, a surprising number, etc.).
+
+2. SPOKEN-LANGUAGE FINGERPRINT
+- Sentence length: average, shortest, longest. Do they use fragments?
+- Repeated words or restarts ("I... I think", "so, so"): count and give examples.
+- Slang, fillers, and discourse markers ("look," "okay so," "right?," "here's the thing"): list each with its count and where in the video it appears.
+- Adverbs and intensifiers ("really," "actually," "incredibly"): count per minute.
+- Contractions vs formal forms.
+- Contrast test: pick 5 phrases that sound distinctly spoken and rewrite each the way a textbook or newspaper would say it. Explain what the spoken version does that the written version loses.
+
+3. WORD-CHOICE AUDIT
+- Pick 8 specific words or phrases where a different, more obvious word was available. For each: the word they chose, 2 alternatives they skipped, and why the choice probably connects better with viewers (rhythm, concreteness, emotion, authority, humor, etc.).
+
+4. PERSPECTIVE AND PERSONALITY
+- Where does the speaker say what THEY thought before, were wrong about, or were surprised by? Quote each.
+- Where do they use "I/we/you"? Ratio of each.
+- Do they admit uncertainty or ignorance? Where?
+
+5. HUMOR AND FACTS
+- Every joke or light moment: quote it, and say the technique (understatement, absurd comparison, self-deprecation, etc.).
+- Every hard fact or number: how is it delivered (comparison, analogy, stated plainly)? Which ones are made visual or tangible?
+
+6. STRUCTURE
+- Break the video into segments with timestamps. For each segment give its job (hook, setup, misconception, demo, twist, payoff, wrap-up).
+- Where are the re-hooks (moments that restart curiosity)? Quote them.
+- How does it end: callback to the hook, call to action, open question?
+
+7. REUSABLE PATTERNS
+Give me 10 rules in this exact format:
+"RULE: [instruction a script-writing AI can follow] | EVIDENCE: [quote + timestamp] | CONFIDENCE: [high/medium/low]"
+Only include rules supported by 2 or more quotes.
+
+End with 3 things in this video that I should NOT copy and why.

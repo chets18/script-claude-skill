@@ -1,0 +1,679 @@
+
+What are fiber optics?
+0:00
+- In 1887, a young physics teacher attached a thin glass rod to the end of an arrow
+0:05
+and loaded it into his homemade crossbow. He torched the rod's end until a molten glass bead.
+0:10
+Roughly the size of a pin's head, it was barely hanging on. And then he fired the arrow.
+0:15
+(air whooshing) (suspenseful music)
+0:23
+Bright sunlight streaming into the room glinted off a tiny glass fiber. At its thinnest, it was less than a tenth
+0:30
+of the diameter of a human hair. Now legally we cannot shoot a crossbow indoors.
+0:36
+Luckily I am pretty quick. (Henry chuckles) (suspenseful music)
+0:46
+That is cool. Look at that. Look how thin we got it. The physics teacher was using these fibers
+0:51
+to measure very small forces, but in the decades that followed, other researchers found a different use for them:
+0:57
+sending light signals. (quiet dramatic music) Glass fibers can carry light even through bends. Look at it. It's like that's 90 degrees.
+1:04
+And during the 1960s, the telecoms industry was desperate for a better way to carry more information.
+1:10
+As one American engineer said, "It should be possible to transmit "all of the conversations going on
+1:16
+"anywhere in the world simultaneously "over a single thread of light."
+1:21
+But these glass fibers were terrible. The light faded so much that you couldn't decode a signal
+1:26
+after just one kilometer. No one thought they'd be practical. Except for one man.
+1:32
+(dramatic theatrical music) His own boss called his dream "a wild goose chase," but if he was right,
+1:37
+if he could prove that fiber optics were in fact viable, and if someone could then figure out how to make them at scale, well, eventually they could connect continents.
+1:45
+How much is in this warehouse? - Oh, there's millions of kilometers here that we're pushing through here every month. - It's approximately three times as hot
+1:53
+as the surface of the sun. - That's crazy. And one day, it could build the internet.
+1:59
+(dramatic music fading) All that was unimaginable in the 1960s, but even then telecom companies wanted
+Why Copper Phone Lines Had Limited Capacity
+2:06
+a better communication system, just for phone calls. Between 1960 and 1973,
+2:12
+the number of daily calls doubled in the U.S. from 285 million to 576 million.
+2:18
+In that same time period, NASA sent people to the moon for a total cost of $26 billion.
+2:24
+While AT&T had to spend nearly triple that amount just to install new telephone infrastructure.
+2:29
+They just couldn't keep up with the demand. At the time, phone calls were mostly transmitted over copper wires.
+2:36
+Now imagine I'm trying to phone my buddy Gregor. Now, when I pick up, a constant current immediately flows through the wire
+2:41
+to supply power to the phone. When I speak, my voice vibrates a tiny diaphragm in the mouthpiece
+2:46
+that modulates the current. The louder I am, the bigger the current swing, and my voice's pitch changes
+2:52
+how fast the current oscillates. At Gregor's end, that current reaches a speaker that turns it back into sound.
+2:58
+Now, this works for one call on one line, but phone companies aren't going to install wires between every single house.
+3:04
+One cable needs to carry multiple calls. So phone companies figure out a neat little trick.
+3:09
+Even though humans can hear frequencies up to 20 kilohertz, you really only need to hear the ones between
+3:15
+300 and 3400 hertz to understand what someone's saying. So phone companies drop frequencies above four kilohertz
+3:21
+or anything outside the voice band. But if everyone used that zero to four kilohertz band on the same line, well, then all the conversations
+3:29
+would be on top of each other and you wouldn't be able to hear the person that you're talking to. Luckily, we can shift those electrical signals,
+3:35
+so my conversation can use zero to four kilohertz while another person's can use four to eight and so on all the way down the same copper wire.
+3:43
+At the other end, a filter separates out the different frequency bands, similar to how a radio can tune into one station.
+3:49
+Then the signal is shifted back down to the zero to four kilohertz range before it hits the speaker, so it sounds like a normal voice.
+3:56
+But as phone companies started using higher and higher frequencies, they started running into problems.
+4:01
+That oscillating current carrying the signal generates additional fields, a magnetic field shown here in red,
+4:06
+and little loops of current called eddy currents, which are shown here in blue. Now, because of their shape,
+4:11
+those loops resist changes to the current at the center of the wire, and they reinforce changes along the surface,
+4:17
+but eddy currents get stronger the faster the signal changes. And if you want more calls, you need more bands,
+4:23
+which use higher and higher frequencies. So soon the eddy currents are strong enough to cancel out the oscillation in the center of the wire.
+4:30
+But if the signal can only travel along the wire's surface, it's limited to a smaller cross section. So resistance goes up and higher frequency signals
+4:37
+can't travel very far before they're absorbed. For a while, telephone companies were able to work around
+4:43
+the high loss by boosting signals every few kilometers. But past 65 megahertz, well, the high frequencies died off
+4:49
+in less than two kilometers, so they were too impractical to use. And this trade-off between signal power
+4:55
+and data rate was actually discovered back in 1948. The Shannon-Hartley theorem described the maximum capacity
+5:02
+of a communication channel based on the signal power, noise, and bandwidth, or the difference between the highest
+5:07
+and lowest frequencies. The best way to increase capacity is to increase the bandwidth.
+Trying To Go From Copper Communication To Glass
+5:13
+But they'd already reached the limit for copper. The telecoms industry didn't have another alternative, (dramatic music)
+5:19
+but then they saw the light. Visible light has frequencies in the hundreds of terahertz. As one researcher for Bell Labs put it,
+5:25
+"the possibility of extremely high frequencies "and accordingly vastly wider bands of frequencies
+5:31
+"appeared as a fabulous El Dorado, "always beckoning us onward."
+5:37
+But if you're going to use light, there are two problems. First, there wasn't a strong enough light source to send a signal.
+5:43
+A light bulb couldn't produce enough power. There just weren't any options. - And along in 1960,
+5:48
+Ted Maiman invented the laser. - [Reporter] A science fiction weapon that melts steel, a death ray that could be more deadly
+5:56
+than a nuclear bomb. It's a beam of light. This is called a laser.
+6:02
+- [Henry] There's a running joke that the laser was "a solution looking for a problem," but that's not really true.
+6:08
+- [Donald] It rejuvenated the interest in possible optical communications.
+6:13
+- As one Bell Labs engineer said, "Think of all this bandwidth!" But they couldn't figure out the second problem.
+6:20
+Glass is not as clear as it looks. Only a small amount of light actually makes it through.
+6:26
+In fact, only a year after the laser's invention, a Bell Labs scientist started looking into fiber optics.
+6:32
+His boss told him to check its loss, or how much a light signal weakens as it travels through the glass.
+6:38
+Now, signal loss is measured with decibels, similar to how you measure audio volume. Both are on a logarithmic scale,
+6:44
+but while volume uses sound pressure, loss uses signal power. His boss said it would only be worthwhile
+6:50
+if the loss was less than 20 decibels a kilometer, so it was comparable to copper. But when he checked the loss for the best fibers,
+6:57
+a thousand decibels a kilometer. To understand just how bad that was,
+7:02
+imagine a leaky truck carrying sand over one kilometer. If the truck starts with 100 kilograms,
+7:08
+and it ends up with one, well, that represents a loss of 20 decibels per kilometer. That's only 1% of the signal left.
+7:15
+It's what was happening with copper, bad but still manageable. A loss of a thousand decibels a kilometer
+7:22
+is like starting with the mass of the observable universe and ending up with less than the mass of a single atom.
+7:29
+To be practical, these fibers would need to improve by a factor of 10 the 98th. It sounded impossible. It would have to be one of the most
+7:36
+absurd engineering improvements in history. So Bell Labs gave up. And fiber optics might have died right there
+7:43
+if it wasn't for one man. Charles Kao. In 1960, he started working
+7:48
+for an English telecoms lab that was looking for a way to communicate with higher frequencies, but not with fiber optics.
+7:55
+Kao's boss said that it was "a wild goose chase" and the rest of the lab agreed. But Kao kept coming back to it,
+8:01
+asking, "Why is glass so lossy "and can we remove those factors "or are they intrinsic to the material?"
+8:08
+If it was the latter, then fiber would be dead in the water. But if not, then maybe it had a chance.
+Why is glass so ‘lossy’?
+8:15
+So the question was: Why was the loss so high? Well, you might think it's because light is exiting through the sides of this fiber,
+8:22
+but glass is really good at trapping light, even through bends. Here's how. I've got a bucket of propylene glycol here
+8:29
+and a green laser. When I remove the tape, (gentle dramatic music)
+8:36
+the laser bounces one, two, three times. And there are two things working together here
+8:41
+that actually trap the light. See, light travels slower in some materials than others,
+8:46
+and it travels as a wave shown here as a line of crests with the beam always pointing perpendicular to that line.
+8:52
+When the wave meets a boundary at an angle, one end of the crest crosses into the new material first,
+8:58
+and it changes speed before the rest. If light travels slower in that new material, then that end drags behind and the beam bends
+9:05
+or refracts away from the boundary. How much it bends depends on the angle it hits the boundary
+9:11
+and on how much each material slows light down, which is described by their index of refraction.
+9:16
+This relationship is defined by Snell's Law. Now if light is moving from a material
+9:21
+with a higher index of refraction into one with a lower index, like propylene glycol to air,
+9:27
+well then one part of the wave crest speeds up and the beam bends toward the boundary. But as you increase the angle of the light,
+9:33
+the refracted beam gets closer and closer to the boundary until it's running right along it.
+9:39
+That's the critical angle. A little bit more and all the light reflects back into the glycol.
+9:45
+That's total internal reflection, and you get the exact critical angle by setting the angle of refraction to 90 degrees
+9:51
+and then rearranging Snell's Law. - The key of it is the bigger the difference in index of refraction,
+9:58
+the more powerful this effect is. If I have a really subtle difference between these two,
+10:03
+then the amount of bending that takes place will be smaller.
+10:08
+- You can do the same demo with water, but propylene glycol works a bit better because it has a higher refractive index,
+10:14
+1.43 compared with 1.33. (liquid splashing) See, once the liquid is low enough for the angle of the stream to be much sharper,
+10:20
+the light breaks through the water stream, but it stays trapped in the propylene glycol. And if you use something with
+10:26
+an even higher refractive index, like the glass types Kao was investigating, well, then the critical angle decreases even more,
+10:32
+which traps the light signals through even sharper turns. Okay, but the light has to move from
+10:38
+a high refractive index to a low one. In air that works right up until something touches the glass.
+10:44
+If you disturb that boundary, well, light can leak out the side. So about a decade before Kao,
+10:50
+researchers realized that a fiber needed to have two types of glass. The middle, the core, has the higher refractive index,
+10:56
+and around it goes a second glass, the cladding, with a lower refractive index. Together, they keep the light trapped.
+11:03
+Now the fiber could be touched, coated in plastic, buried in a cable, bent around things, and the light would still travel down the core
+11:10
+and come out the other end. (quiet dramatic music) So Kao knew that if the high loss wasn't from light leaking out the sides,
+11:16
+well, it had to be from something else. He spoke with material scientists and glass experts, but no one seemed to know what was really causing it.
+11:23
+He kept looking and eventually he landed on two potential sources: scattering and absorption.
+Scattering and Absorption
+11:29
+If you shine light through a perfect crystal that's transparent, there's going to be a little bit of reflection, but almost all of the electromagnetic energy
+11:36
+will keep going down in the same direction that it started. But glass isn't a crystalline solid.
+11:41
+The basic building block is silica or silicon dioxide, one silicon atom connected to four oxygen atoms
+11:48
+in a tetrahedra or pyramid shape. In the glass, the pyramids are connected at the corners,
+11:53
+so every oxygen is shared with another silicon. That's why it's called silicon dioxide. For every two oxygens,
+11:59
+there's one silicon atom. This is an amorphous solid. Unlike a crystal, its atoms have no long-range order.
+12:05
+Instead, its disordered liquid-like structure locks in as it cools, with the exact arrangement
+12:11
+depending on the glass type and cooling speed. For example, if you quench the glass really fast,
+12:17
+the structure locks at a higher temperature. The final solid has lots of dense regions, which re-radiate more light than the sparse ones.
+12:24
+The light scatters, which weakens the signal. This is called Rayleigh scattering, and you can't get rid of it completely,
+12:30
+but if you cool the glass slowly, those pyramids have more time to settle and pack together evenly.
+12:35
+The structure locks in at a lower temperature and light scatters less.
+12:40
+But Kao needed to know the minimum scattering. Was it 10 decibels a kilometer, a hundred, a thousand?
+12:46
+He needed something concrete. Finally, he stumbled on a paper by Robert Maurer, a scientist from Corning Glass
+12:53
+who measured the Rayleigh scattering across several glass types and cooling rates. Kao used his calculations to estimate
+13:00
+that if the glass's structure was locked at a thousand degrees Celsius, well, its scattering loss would
+13:05
+be around one decibel a kilometer. He was surprised. He expected scattering loss
+13:10
+to increase with higher temperatures. That's what causes more density fluctuations, but a thousand degrees Celsius was pretty hot
+13:18
+compared to other glass types, so then scattering couldn't be behind those crazy high losses.
+13:23
+Absorption had to be the problem, but Kao didn't know what exactly was absorbing so much light.
+13:29
+Was it the glass itself or something else? Well, absorption works like this.
+13:34
+In a single atom, electrons sit at discrete energy levels, and there are usually some empty spaces in the upper ones,
+13:40
+but pack atoms together into a solid and those levels smear up into wide bands separated by gaps.
+13:46
+Now when light hits the surface, it can excite an electron to a higher band, but only if the photon has at least
+13:51
+as much energy as this band gap. If it does, the photon is absorbed and eventually it releases that energy as heat.
+13:58
+In something like silicon, that band gap is very small. It's only around 1.12 electron volts.
+14:04
+Visible light is between 1.63 to 3.26. It's got plenty of energy, so it gets absorbed.
+14:10
+That's why pure silicon looks opaque to us, but the silicon in glass is connected to oxygen atoms
+14:15
+that pull more on the shared electrons. Now it takes a lot more energy to excite an electron.
+14:21
+The band gap is much larger, around nine electron volts. Visible light doesn't have enough energy,
+14:26
+so it passes right through, and that's why glass looked clear to us. But most glass types aren't pure silica.
+14:33
+The raw materials for glass, from sand, soda, lime, and other ingredients, well, they contain impurities like trace metals,
+14:40
+and these metals absorbed far more light than silica did. One of the worst impurities in glass is iron.
+14:47
+Inside the glass structure, iron atoms form positive ions that strongly absorb violet, bluish,
+14:52
+and infrared wavelengths. Of the visible light spectrum, impure glass doesn't absorb green light as much,
+14:59
+and you can even see this in a regular glass pane. Looking at it from the edge, light travels down the entire width of the glass,
+15:06
+so by the time it reaches your eye, only green light is left. So if you can see this attenuation
+15:11
+after just a few centimeters, imagine a glass fiber trying to carry light for kilometers and kilometers.
+15:17
+No wonder it had a crazy loss. Kao spoke with more experts who estimated that without those metal ions,
+15:23
+the loss would drop to around 20 decibels a kilometer, comparable to copper, just by removing impurities.
+15:29
+(quiet dramatic music) It was all theoretical at this point, but it was enough for Kao. In 1966, his team published a paper on their theories,
+15:36
+concluding with "the crucial material problem appears "to be one which is difficult but not impossible."
+15:42
+But nobody really paid attention to his paper because it really seemed impossible.
+15:48
+A 10 to the 98th times improvement was unprecedented, and Kao didn't actually measure the loss in glass.
+15:55
+He didn't have anything concrete, so he needed proof. Kao was trying to invent a new way to communicate,
+How can you remove impurities in glass?
+16:02
+but even today actually staying connected can be hard. In fact, we just traveled to Spain for the eclipse a few weeks ago,
+16:08
+but with so many other projects going on, we still needed to check in and send updates to the rest of the team,
+16:13
+not to mention my mom. (laughs) We drove seven hours to Burgos, but the Wi-Fi when we got there was a little touch and go.
+16:20
+We needed to have everything set before we arrived on site, so of course we used Saily, today's sponsor.
+16:26
+After I downloaded their app and activated my eSIM, all I had to do was choose my data plan and country,
+16:31
+and then I was set before I'd even reached the airport. It's available in over 200 destinations, and they even offer regional plans,
+16:37
+which is great if I have an extended shoot in multiple countries. I'm automatically connected right when I land,
+16:43
+ready to update my team, access maps, or get transportation to wherever I'm filming. I installed an eSIM once,
+16:48
+and I use it almost anywhere in the world. There's no hidden charges, so it's extremely affordable and convenient.
+16:54
+Actually, let me show you. (buzzer ringing) Wait, I can't get SMS messages right now.
+16:59
+But with Saily you can now get a U.S. phone number right through the app for voice calls or SMS messages as an optional add-on.
+17:06
+There's no contract or physical SIM card needed. So if you've got a trip coming up, and you still don't know where you're going to get your data
+17:12
+well, you can scan this QR code for the Saily app and check out with code "Veritasium" so you'll be able to get 15% off your first purchase.
+17:18
+Again, just scan this QR code, use the code "Veritasium" and get 15% off,
+17:23
+and you can stay connected. Now, let's go back to Kao. (striking dramatic music) Kao needed to prove that his theoretical
+17:29
+low-loss glass was really possible, so he decided to measure the purest glass anyone had ever made, fused silica.
+17:36
+Now, the reason glass manufacturers had added all those extra ingredients was to bring sand's melting point down
+17:41
+to around 1400 degrees Celsius, but fused silica was pure silicon dioxide
+17:46
+melted at over 2,000 degrees Celsius, so it was a lot harder to make, and that meant that Kao couldn't get his hands
+17:53
+on much of it. Measuring loss normally takes hundreds of meters of cable, if not kilometers,
+17:59
+but he only had pieces less than 30 centimeters long. To measure the loss in something that small,
+18:04
+he and his colleagues invented a new, very precise instrument. Kao spent the next three years working on it,
+18:10
+but when he finally measured a sample, he found that fused silica had zero loss.
+18:16
+(dramatic music continues) That couldn't be right. In a panic, Kao ran his experiment again.
+18:21
+It turned out that the loss was so low that it was within their margin of error, a mere plus or minus four decibels a kilometer.
+18:29
+He spent months fine-tuning his equipment, and in 1969, he finally reported that fused silica
+18:34
+had a loss of less than five decibels a kilometer. Now, that got everyone's attention.
+18:40
+One scientist at Bell Labs said, (audience applauding) "Kao gave everyone a jolt. "That was the first practical measurement "which said, 'Hey, you're not just whistling Dixie.'"
+18:48
+Now everyone was interested. Telecom labs around the planet rushed to fund fiber optics groups,
+18:53
+but Kao had only worked with small samples. Nobody knew whether kilometers of low-loss fiber were even possible.
+18:59
+The problem caught the attention of one Robert Maurer, Corning researcher and author of the scattering paper that Kao had referenced.
+How They Make Fiber Optic Glass
+19:06
+To make a practical fiber, he saw three major problems to tackle. First, he needed to decide which glass to use.
+19:12
+He could try purifying raw materials for normal glass, or he could try using fused silica, which Kao had already proven to be very pure.
+19:19
+Most labs were avoiding fused silica because of how hard it was to work with. But luckily, Corning had a secret technique.
+19:27
+Back in the 1930s, another Corning scientist had ran silicon tetrachloride gas through an oxygen flame.
+19:33
+In the heat, water vapor from the flame would break silicon tetrachloride into hydrogen chloride gas and silicon dioxide.
+19:40
+The latter would then start clicking together in a fine glassy silica powder. Then the powder would be pressed into shape
+19:46
+and melted to make fused silica. Corning was one of the few companies in the world using this technique
+19:52
+called flame hydrolysis to make ultra-pure glass. So they had the supply,
+19:58
+but there was a bigger problem with fused silica. It has a refractive index of 1.46,
+20:03
+which is the lowest of any glass, but for total internal reflection to work, the core needs to have a higher refractive index
+20:10
+than the cladding. So if Maurer wanted to use a fused silica core, well then finding another glass
+20:15
+with a lower refractive index for the cladding, well, that'd be a nightmare. It simply didn't exist.
+20:21
+So everyone abandoned fused silica except for Maurer. He said, "I had no reason to think fused silica
+20:27
+"was any better, but nobody else was working on it. "If you do something that's different "from what everybody else is doing,
+20:33
+"you've got two advantages. "One is you may succeed where they fail, of course, "but even if you fail, you will gather information
+20:39
+"that they don't gather." All the other labs were thinking of using a fused silica core. After all, that's where the light travels,
+20:46
+but Maurer decided to use fused silica for the cladding. Then he could easily raise the refractive index of the core
+20:52
+by adding some impurities or dopants. - The only glass that we had
+20:58
+with a slightly higher index than fused silica was this titanium-doped glass.
+21:03
+- [Henry] But that would mean adding titanium right where light needed to travel. Kao worked hard to prove that glass could be pure enough.
+21:11
+All the other labs were trying to get rid of impurities, and Maurer wanted to add some back in.
+21:17
+But he wasn't completely crazy. Like silicon, the titanium in glass can easily share electrons with four oxygen atoms,
+21:23
+forming the same pyramid shape, so it wouldn't disrupt the overall glass structure too much. (gentle music)
+21:30
+Now that he had the composition, Maurer needed to tackle that second problem. How do you make a tiny fiber
+21:35
+with that perfect core and cladding cross section? To help, he hired two more scientists,
+21:40
+Peter Schultz, a ceramics engineer, and Donald Keck, a physicist. - Each time you find a problem,
+21:45
+you put a development team on it and strike it down and make it happen.
+21:50
+- To understand their technique, I went to the Bay Area Glass Institute for some hands-on demos. Here, our instructor, Erin
+21:57
+is taking a colored rod of glass and then dipping it in a bowl of clear molten glass. In fiber optics, this large cylinder is called a preform.
+22:05
+(gentle music) We have two colors of glass here. We have a color core and a clear outside.
+22:11
+If you want your inner rod to, say, be a quarter of the diameter of your outer one, you just set that in the preform,
+22:16
+and then all the length along your pole, the cross-section's going to be identical. And this is pretty similar to how
+22:21
+hard candies with patterns are made. This sugar is an amorphous solid, just like glass.
+22:26
+So the process is the same, just at a lower temperature. But there is one problem with this method.
+22:33
+Resting glass on a surface like this introduces a ton of stress and impurities, but when I try and suspend it in the air, well, it sags.
+22:41
+- [Erin] But yeah, from all that movement, it did create stress, so now it's a curved piece of, of glass.
+22:47
+- Thankfully, there's another option. Now, gravity is pulling our glass for us, and the surface section is keeping it together.
+22:54
+(light dramatic music) So now we get a much more straight and consistent fiber.
+23:00
+That's awesome. (dramatic music continues) - With their drawing technique sorted, the corning team could tackle the final problem.
+23:06
+How do you actually make the preform? Well, instead of starting with a core and adding the cladding, Schultz and Keck decided to start
+23:13
+from the cladding and work in. They used the flame hydrolysis technique to make titanium dope silica powder,
+23:20
+or soot as they called it. Next, they took a pure fused silica tube and tried spreading soot down the inside.
+23:26
+If they could get an even layer, well, then they could melt and collapse the tube into a solid rod, a perfect preform.
+23:32
+But the soot collected at one end no matter how they sprayed it. - So one of the technicians
+23:38
+grabbed a vacuum cleaner from the corner of the room, and he held it up to the backside of this tube.
+23:44
+And it sucked a stream of titania dope silica glass down through the center of the tube,
+23:50
+coated it just like we'd hoped it would. - [Henry] The vacuum did not survive that experiment,
+23:55
+but they tinkered with a new setup until they got the gas flow just right. (striking dramatic music) All through the summer of 1969,
+24:02
+their furnace burned "hotter than Hades." They drew kilometers of fiber from preform after preform, testing various compositions,
+24:09
+but none of it was good enough. Titanium was breaking down in the high heat and absorbing too much light.
+24:15
+They ran the finished fibers through a second heat treatment in an oxygen environment before they finally started seeing results.
+24:23
+(light dramatic music) A year later, on July 22, 1970, a preform slipped against the furnace wall
+24:29
+after Keck only got a few meters of fiber. The preform was ruined, but he decided to test the short fiber anyway
+24:36
+after its heat treatment. - When I slid it across and the laser light hit the core of the fiber,
+24:41
+all of a sudden I had another beam coming back in my face. The core was brightly lit,
+24:47
+and it took a while to realize that the light was going all the way to the other end of the fiber
+24:52
+and reflecting off the far end and coming back into my eye. - [Henry] The loss was 17 decibels a kilometer.
+25:00
+- The only word I could come up with for this auspicious moment in history was "Whoopie".
+25:06
+So that's what's in my lab notebook, "Whoopie". - [Henry] But the fiber was much shorter than usual,
+25:13
+only 29 meters to their typical 200. He added a careful "must remeasure" in his notebook.
+25:19
+Team quickly remade the preform, but it took almost a month to get 210 meters of finished fiber.
+25:25
+It was finally done by late afternoon of Friday, August 21st. It was a gorgeous summer day and almost everyone left early,
+25:31
+but Keck didn't want to wait. The fiber was so fragile, small temperature changes might break it over the weekend.
+25:37
+- It would break if you looked at it crossways. - So alone in the lab, he anxiously measured the loss,
+25:44
+16.9 decibels per kilometer. (dramatic music continues) - I said "QED, quod erat demonstrandum"
+25:51
+There was no, (chuckles) no eureka. - [Henry] Maurer published their results that fall.
+25:57
+As Schultz described it, no one believed it. And telephone companies all demanded to see the fibers firsthand,
+26:04
+so Maurer hand carried a spool of fiber to all the big telephone laboratories. He would literally guard to make sure
+26:10
+that they didn't snip pieces off and keep them. (dramatic music continues) For two years, they refined their methods.
+26:17
+And to make the fiber stronger, they switched to a germanium doping. Like titanium it easily swaps with silicon
+26:23
+while still raising the refractive index. But unlike titanium, germanium fibers didn't break down in the heat,
+26:29
+so they could skip the second heat treatment. When they drew their first germanium fiber, the end lit up with the light from the furnace.
+26:36
+Even when it reached the bottom and wound up around a large drum, the fiber stayed bright. - And we kept winding and winding and winding
+26:43
+and thinking the light was going to go out, and it never went out. - The loss was only four decibels per kilometer
+The Technology that Made the Internet Possible
+26:50
+with excellent strength. Keck considers that the very first truly practical low-loss fiber.
+26:57
+By 1977, AT&T trialed a fiber system underneath Chicago. Two years later, a fiber team from Japan was able to get
+27:04
+a loss of just 0.2 decibels a kilometer, the standard up to today.
+27:10
+Fiber networks continued to grow with the first transatlantic fiber optic cable installed by 1988.
+27:16
+And it transmitted those phone calls differently than in copper. The audio wave was split up
+27:21
+or sampled into discrete values, and then converted into binary to get a long string of ones and zeros.
+27:26
+Then a laser flashed on for one and off for zero, 280 million times a second.
+27:32
+These pulses of light traveled down the fiber, but that wasn't all. Multiple conversations could now be weaved together,
+27:39
+one bit from one conversation, then one from another and so on, slotting it together like a zipper.
+27:45
+As long as the receiver knew the timing of each conversation and the sampling rate, well, they could reconstruct the original waves.
+27:53
+(dramatic music) So this first intercontinental cable could carry 40,000 simultaneous calls,
+27:59
+10 times more than the previous copper version. This insane capacity opened up a whole new world,
+28:05
+and with digital signals people realized that they weren't limited to phone calls. It was easier than ever to send texts, images, videos.
+28:13
+All building up to the internet, and since then demand has only increased.
+28:18
+- This reel right here? (light upbeat music) - Yeah. - 50.477 meter kilometers,
+28:25
+so 50 kilometers. So it's about 30 miles. - [Henry] That's crazy. Like how much is in this warehouse?
+28:32
+- There's millions of kilometers here that we're pushing through here every month. - [Henry] To see how modern fibers are made,
+28:37
+we visited Prysmian's North Carolina factory. It all starts with the preform. Each pass of this microwave source
+28:44
+ignites a mixture of gases into a plasma which deposits a thin layer of glass on the inside of the tube.
+28:50
+- And you see when it turns purple, that's when we're making a plasma with that gas. - So, how thick are these deposition legs?
+28:58
+Like how many times are you doing this? How thick are you doing-- - Thousands of passes. - [Henry] "Thousands of passes." - Several thousand times it's doing this.
+29:04
+Every time we may go back and forth, we could change the composition of that if we wanted to. - [Henry] Oh, okay.
+29:09
+After all the inner layers are done, the tube has a thicker wall, but there's still a gap down the middle. - So we want to collapse that channel upon itself.
+29:16
+So what we do is we heat it up. We have a furnace that goes back and forth, and just via surface tension,
+29:22
+it collapses upon itself. - Interesting, I would've thought maybe you'd like pull it, or just-- - [Sujeet] And I asked this exact question.
+29:27
+I said, "Are you pulling a vacuum in there "or what's making that thing shrink?" - Exactly. - It's really just a glass phenomenon where the molecules
+29:34
+are trying to pull together. You heat it up, you'll lower the viscosity of the glass. It just... (exhales)
+29:39
+- [Henry] Now they need to add more silica on the outside to get the preform to the right proportions. The core is very small,
+29:45
+just 7.2% of the total diameter. - And you have a several thousand C
+29:50
+plume of plasma right there. There's grains of silica that's flowing into that plume and effectively melting it
+29:57
+and spraying it onto that rod. - [Henry] Wow. (steam hissing) - That plasma torch is approximately three times
+30:03
+as hot as the surface of the sun. - Plasma always blows my mind. This is absurd. Once the preform's done,
+30:09
+it goes to the top of the draw tower, seven stories up to start making fiber.
+30:15
+(steam hissing) It really looks like some sort of steampunk thing, you know? All these coils and then this hot glass going down.
+30:22
+(gentle dramatic music) The bottom of the preform is tapered to a point and heated to over 2,000 degrees Celsius.
+30:28
+It's like there's some heat coming off this. The end of the taper slowly drops down to the floor below.
+30:35
+- [Man] We call it a gob, but it looks like a teardrop. - The fiber is a little thick, so it'll be thinned down to the final
+30:42
+125 microns before it passes to the next level. (gentle dramatic music)
+30:48
+It's like a little flashlight coming down. (glass clinking)
+30:57
+I didn't expect it to be so violent. (gentle dramatic music)
+31:02
+If the drawing, like the pull down to that final diameter
+31:08
+happens in such a short amount of... - In a few meters, let's call it. - A few meters. Then why do you need six more floors?
+31:16
+- You got to cool the glass before you can apply the coating. And if you cool the glass too quickly, it'll have residual stress
+31:22
+and then have optical loss attenuation. (glass clattering)
+31:28
+- Once the fibers are cool enough, they are dipped in two protective plastic coatings. At the bottom of the draw tower,
+31:33
+the fiber is wound onto massive spools, each capable of carrying hundreds of kilometers at over 50 meters a second.
+31:40
+Okay. Next, the finished fiber is tested for loss and strength.
+31:45
+Fiber is stronger than a steel wire of the same thickness. I guess if I try to do it like... - [Sujeet] If you just try to do it like that,
+31:51
+it's really hard to break. - First of all, it just slides down my hand. - [Sujeet] And that's a glass fiber with two coatings on it.
+31:58
+- Ah, it's just hurting my hand. Oh, my god. Yeah, not easy.
+32:03
+Definitely not easy. Ow. But it's weak to sharp turns. - [Sujeet] Tie it in a knot. - Tie it in a knot. - And watch what happens
+32:10
+and see how much you can get before it breaks. (gentle dramatic music)
+32:16
+Yeah, because the angle's so great, you can break it. - But after testing, fiber is bundled and wrapped into thicker cables
+32:22
+so that it's harder for them to knot and break. These cables will join the more than eight billion kilometers of fiber already installed
+32:29
+that carry information around the world, powering the internet and letting you watch this video.
+32:35
+But some experts argue that even with fiber, the internet would not be possible without another key invention.
+32:41
+The amplifier, that's what boosts signals across long stretches, and it revolutionized fiber capacity on land and sea.
+32:48
+So if you'd like to see a video about submarine cables and fiber amplifiers, well, let us know in the comments.
+32:54
+(quiet dramatic music) As for Kao, his dream went further than he ever thought. When he received the Nobel Prize in 2009 for his work,
+33:02
+he said, "The information revolution that started "in the 1990s could not have happened "without optical fibers.
+33:07
+"It is beyond the dreams of the first serious concept "of optical communication in 1966, "when even one gigahertz was only a hope."
+33:16
+For me, one of the things I kept on coming back to in this story is that Kao was not a material scientist.
+33:22
+He was an electrical engineer. And it was only because he was an outsider that he was able to ask the questions
+33:27
+that nobody was asking. He was able to push the status quo, but he was not the only one. Maurer's team were also working
+33:34
+with a very unintuitive idea that by making something seemingly worse, they actually were making it better.
+33:40
+As Kao said, "Who knows what other forward thinkers "will dream of in the future?" Granted, he was talking about bandwidth,
+33:46
+but I think it applies anywhere where people are able to question why things are the way they are
+33:51
+and whether that's really the limit. (electric chirping)
+33:57
+One last thing. These videos are only possible because of the incredible work done by our team behind the scenes.
+34:02
+We have world-class editors, animators, researchers, and writers that make these videos possible.
+34:07
+We'd love to shine more of a light on their work, so we organized a Q&A with the writer of today's video, Sulli. She discusses the fascinating things
+34:14
+she learned while researching this topic and things that didn't make the cut, but that are really interesting. So if you want to learn more about that,
+34:20
+you can sign up for our newsletter in the description and you can find her Q&A right there. (light gentle music)

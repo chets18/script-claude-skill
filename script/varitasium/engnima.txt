@@ -1,0 +1,870 @@
+title:  The Insane Real Engineering of the Nazi Enigma Machine 
+views: 21M, 
+likes: 152k
+
+
+
+This is the Enigma, the encryption machine used by the Nazis in World War two. I see that there is a sigil
+0:06
+from the Nazi Party on this one, so it must be the real thing. Yes. This was actually used by the Germans in World War II.
+0:12
+Someone actually asked me the other day, did Hitler use this machine? And I said, I don't know, but
+0:17
+Benedict Cumberbatch and Keira Knightley did. Woah, no way! Could we try encrypting a word? Yeah. - I have just a word for us.
+0:24
+You'd never guess what it is. - So that's our plaintext. That is our plaintext. So we need to press the keys.
+0:31
+And look at the lamps that light up, which will give us our ciphertext. So the first one is V.
+0:37
+We have a J. Okay. Then an E. - F - Then an R.
+0:43
+We have an M. That is an L.
+0:49
+Now for someone to decrypt this message they need to type this text into another Enigma machine.
+0:54
+But not just any enigma. Their machine has to be set up in the exact same way as the one that encrypted the message.
+1:01
+So we need to turn these rotors back to the initial setting. That means adjusting a series of rotors and wires
+1:07
+to exactly one of trillions of possible combinations. If you get it right....
+1:12
+Finally, the L gives us: - Veritasium It worked. Yeah. The message appears, but if just a single setting
+1:20
+is out of place, well, then the encryption remains unbroken. I can see how decrypting such a thing
+1:26
+would get very complicated very quickly. This is exactly what the Nazis relied on. Hitler had come into power in Germany
+1:33
+and the Nazi Party had taken over. Today we rule Germany. Tomorrow the world.
+1:39
+By 1939, they were sending hundreds of encrypted messages across Europe every day.
+1:45
+With the allies desperately trying to guess the Enigma settings. But even if they sometimes got lucky and cracked a message
+1:52
+each day at midnight, the Germans would change the settings on all their Enigma machines, so none of it would help them read the next day's messages.
+2:01
+That's why British intelligence assembled a team of the country's greatest minds: chess players, crossword fanatics and university
+2:08
+academics including Alan Turing, along with hundreds of women from the Royal Navy. And bit by bit,
+2:14
+they looked for flaws hidden deep within the machine. But they also searched for subtle mistakes made by German operators.
+2:22
+At its peak, around 9000 men and women were executing the most secret code breaking operations in the world.
+2:28
+Out of an unsuspecting mansion in the English countryside. This is a video about the incredible methods and machines that broke the enigma.
+2:37
+Let's start with how the Enigma actually works. And I think the first thing you need to know about the Enigma is that it wasn't actually invented
+2:44
+by the Nazis. It was patented in 1918 by a guy called Arthur Scherbius. He was a German inventor who wanted to encrypt messages
+2:52
+for banks and businesses. Were Enigma machines readily available? Could you, like, buy one in Germany, or were they kept a secret anyways?
+3:00
+This, by the way, is Sir Dermot Turing. He's Alan Turing's nephew. The company that was making Enigma
+3:06
+machines was really trying to find a market for them, so you could definitely go out and buy them. And lots of countries did.
+3:12
+So Poland bought one, the British bought one, the Russians bought one, you name it. And there's one thing in particular that made Enigma superior
+3:21
+to other encryption methods. And you only need to play around with it for a bit to figure that out. I'm going to press the L key.
+3:27
+And when I do that, you'll see that one of the lamps on the lamp board lights up. The Y.
+3:36
+That means that the plaintext letter L has been encrypted as a Y.
+3:42
+If I press the L again, what do you think might light up? Maybe the Y again? - Maybe the Y.
+3:48
+So let's press it again and see what happens. And what has lit up there. Well that's an H not a Y.
+3:55
+So it's not a Y. So it's changed. Okay, so with every key press the substitution is different. - Yes.
+4:02
+This is what separates the enigma from the most famous encryption methods that came before, the Caesar cipher or simple substitution ciphers.
+4:09
+These all encrypt according to a fixed rule. Enigma changes that rule with every single letter you type.
+How did Enigma work?
+4:16
+And for the reason for that, we need to open the box even further and see what's happening inside.
+4:22
+Yeah, that'd be great. Okay, so I'm going to open this up. Inside the Enigma there are three rotors.
+4:29
+Each rotor has 26 metal contacts on either side, one for each letter of the alphabet.
+4:34
+So when you slot them into the machine, current flows from one rotor to the next, the wiring between the contacts is totally scrambled.
+4:42
+So for example, when you type a Y current flows down the Y wire to the first rotor, where it first gets switched to an
+4:49
+H, and then in the second rotor, the H gets swapped to a B, and in the third rotor the B gets swapped to a q.
+4:55
+Then a component called the reflector directs the current back through the rotors by a completely different path, ending up as a letter E.
+5:03
+The current then goes up to the lamps above the keyboard and illuminates the letter E, indicating how the Y has been enciphered.
+5:10
+I just want to say a big thanks to Jared Owen, who made the 3D model of the Enigma for his YouTube channel and has kindly let us use it here.
+5:17
+So check out the link in the description for his original video. Now, the moment you type a letter into the Enigma,
+5:23
+the rotor on the right rotates. And that's how a rotor encryption machine works,
+5:30
+that it actually moves the rotor when you press the keys. So if you type the same letter again,
+5:35
+it will follow a completely different path through the machine, which means you'll get a different letter each time you press the key.
+5:43
+So here you can see the rotors in position. Yes. And when I press the key you can at the back
+5:49
+see levers which push up against the rotors. Could you press the button? Oh, I see.
+5:56
+There we go. There's actually three levers. And they are set to the right hand
+6:02
+side of each rotor. So there's one for each rotor trying to push the three rotors around. But it's only the first rotor that turns every time you press a key.
+6:11
+Right. Yeah. The second rotor will only turn when the first rotor reaches a certain position.
+6:17
+There's a notch that's connected to the ring. That notch will allow the lever at the back to drop.
+6:25
+And then connect with the ratchet on the next rotor along. So this rotor turns until the notch comes into the turnover position.
+6:35
+When it does so that allows the second lever to drop in and engage with the ratchet on the second rotor,
+6:42
+which will then allow the second rotor to turn. You'll see as the rotors turn
+6:49
+the second rotor turned at the same time. So after 26 rotations of the first rotor, the second one turns once. - Yes.
+6:56
+And then after 26 rotations of the second rotor, the third one turns once? - Yes. Absolutely.
+7:02
+Yes. So the third one turns very very rarely. Yes. Okay. The operator can slot the three rotors
+7:08
+into the machine in any order. That's three times two times one equals six possible permutations.
+7:14
+Then there's the starting position of each rotor, which is shown in the window before the operator starts typing.
+7:19
+This is called the window setting. There are 26 numbers on each rotor, so that's 26 cubed possibilities.
+7:26
+Multiply that by six possible rotor orders. And that's over 100,000 ways to set up this commercial Enigma machine.
+7:33
+But what the Germans did was they not only bought them, but they said we're going to modify them.
+7:39
+We're going to modify them in a way that nobody else knows what we've done. There were a few ways that they did this.
+7:45
+So if I undo this clasp here, I can actually turn the ring round.
+7:51
+And that changes the relationship between the letter that appears at the top and the fixed wiring of the rotor.
+7:59
+I see. So rotating the ring does two things. First, it offsets the letters from the rotors
+8:06
+internal wiring for example at first this rotor connects 1 to 4. So it changes A to D.
+8:11
+But rotate the ring by one. And that same wire now connects 2 to 5. So it changes B to E instead.
+8:18
+And second it changes the position where turnover occurs on the adjacent ring.
+8:23
+But there was another vastly more complex upgrade. There is another part of the machine
+8:29
+that we haven't looked at yet, and this was a part of the machine that was added by the German military.
+8:36
+It's called the plug board. Each of the keys is connected by a wire to the plug board.
+8:43
+So the plug board has a letter for each of the keys, because it means that you can
+8:48
+substitute the letter, say the first one we have here, which is Q and that's plugged
+8:55
+into R. The Q coming from the keyboard will go into the entry wheel
+9:03
+into the first rotor as an R, but if there's nothing plugged in it will carry straight through.
+9:10
+Now let's consider how this impacts the number of ways messages can be encrypted. This is also known as the key space.
+9:17
+The revolvable rings change the position where the second two rings would turn over. So that's 26 squared possibilities.
+9:24
+And then on the plug board, if you swapped just one pair of letters, that would introduce 325 more possibilities.
+9:31
+But in the late 1930s, the Nazis typically swapped around six letters. And that's 100 billion possibilities.
+9:40
+Overall that brings the grand total for the key space to over seven times ten to the power of 18.
+9:47
+But as long as the machine is set up exactly how it was at the start of the encryption, you can type in the ciphertext
+9:53
+and get out the original message intact. This is also called the plain text.
+9:59
+If both machines are in the correct settings and I press an E, it will encode to a k going through the complicated set of wires.
+10:06
+But if I press the K under the same settings, it'll go back to an E. So it's like a closed loop of electricity.
+10:13
+So we have a k. Oh, it seems to be working! E.
+10:21
+The way the Germans ensured that all enigmas on a particular network were set up in the same way was by sending out
+10:27
+prearranged instructions for each day of the month. These were called the key sheets.
+10:32
+So each morning when the operator sent their first message, they would reconfigure their machine
+10:38
+to the new daily settings, and that would allow them to encrypt and decrypt messages to other Enigma operators.
+10:45
+But what if you didn't have the key sheets? Well, then you would have to figure it out from scratch.
+The Secret Spy Mansion
+10:52
+By the end of the 1930s this problem had become urgent. As Nazi Germany grew more powerful, British intelligence could sense
+10:59
+that war was becoming increasingly likely, and they knew that Enigma messages could reveal what German forces were planning,
+11:06
+but only if the messages could be deciphered in time. So British intelligence assembled a secret workforce
+11:13
+focused on doing just that. We're at Bletchley Park. This was Britain's most important codebreaking operation
+11:21
+during World War Two. Bletchley was an unremarkable town, but it was situated conveniently between London and the country's two most prestigious universities,
+11:30
+Oxford and Cambridge, which is where the British intelligence sought their new recruits. And alongside these academics, Bletchley Park
+11:36
+also recruited women from the Royal Navy known as Wrens, and the whole operation was kept as secret as possible.
+11:43
+To give you an idea of the secrecy, here is something that the code breakers at Bletchley Park had to follow.
+11:50
+Some of the rules: do not talk at meals or in transport or traveling. Do not talk by your own fireside.
+11:56
+Be careful even in your own hut. All in all, seems like a very secretive place to work.
+12:01
+Together this group of around 150 people started trying to break the enigma.
+12:07
+And here was their plan. First listening stations would intercept German radio messages and send them to Bletchley Park.
+12:14
+Second, codebreakers would analyze the day's traffic, looking for patterns and weaknesses in the encryption.
+12:20
+And third, they would use those clues to try and guess the settings, and then they would put those settings
+12:26
+into their own enigmas, finally cracking the messages. But all this rested on one key component
+12:32
+the British needed a working version of the Nazi Enigma machine to figure out the settings, but they didn't have one.
+12:38
+See, on top of adding revolving rings and the plug board. The Nazis had made another upgrade.
+12:44
+They had also changed the wiring inside each rotor. That meant the Nazi rotors scrambled the letters
+12:49
+in a completely different way from the commercial Enigma, and without knowing the wiring of the Nazi rotors, it was impossible
+12:56
+to determine the settings the Nazis were using each day. So the codebreakers were stuck. So it was completely hopeless.
+13:02
+And that was the situation at the beginning of July 1939. They really hadn't made any progress at all.
+13:09
+But what the British and the Germans didn't know was that years earlier, another country had already launched a secret effort to break Enigma.
+The First Codebreakers Who Broke Enigma
+13:18
+In 1931, an employee at the German Armies cipher office made contact with French intelligence, offering
+13:25
+to sell secrets about the Enigma in exchange for a handsome fee. He handed over operating procedures,
+13:30
+sample messages, and even key sheets. Now, the French didn't know what to do with them, so they shared them with their Polish allies,
+13:37
+and the Polish gave the sheets to their codebreaking team of mathematicians, who spotted a vulnerability.
+13:44
+After an officer set up his enigma for the day. He had to choose three random letters before sending a message, for example GEX.
+13:52
+Then he would transmit these three letters, encrypted on the day's default settings, and he'd do it twice,
+13:57
+just in case of a bad signal. For example, the encrypted letters would come out as ASDEIW.
+14:03
+After that, he would move his rotors such that these same three letters GEX would appear in his window up here.
+14:11
+These were the so-called window settings. And finally he would be able to type out the rest of the message.
+14:17
+Now the receiver would decipher the first six letters of the message, and they would get GEX GEX
+14:23
+and they would know that they had to change their window settings to GEX at this point, and only then
+14:29
+would they be able to decipher the rest of the message. So it was encrypted twice. - Right.
+14:35
+Which was a security flaw, because if you encrypt something twice, you have a relationship created
+14:41
+by the first letter of the key that's been chosen. And the fourth letter,
+14:47
+the same letter has been encrypted because you're sending it twice. Okay. Just the three second letter and the fifth letter as well.
+14:53
+Okay I see. And they had this brilliant guy called Marian Rejewski who essentially said, oh,
+14:59
+I recognize this is a problem in permutation theory from when I was doing my undergraduate mathematics.
+15:04
+This meant that by 1933, the Poles had reconstructed
+15:10
+the wiring of the military version of Enigma, even though they'd never seen one, they never captured one.
+15:18
+And so that meant they were able to reverse engineer and make replica Enigma machines, and then they could
+15:23
+start working out what the settings problem was and how to how to solve that.
+15:28
+So by the mid 1930s, the Poles were actually able
+15:34
+to read German military Enigma traffic. But in 1939 the Nazis were getting ready to invade.
+15:39
+So they upped their security again by first making two extra rotors. So now it was five to choose from, not three.
+15:46
+And that's five times four times three. So 60 possible orders that increased the key space by a factor of ten.
+15:54
+And on top of that they switched from using six plug board swaps to ten. That's around 150 trillion combinations from the plug
+16:01
+board alone. So all in all, the key space had grown by a factor of 15,000 to over 100 sextillion.
+16:09
+The Polish needed help, and by July 1939, they knew a German invasion was likely.
+16:14
+So the Poles called an urgent meeting with British and French intelligence. They revealed everything they knew about
+16:20
+the Enigma machine itself, the wiring, and they revealed everything they knew about the daily setup of the machine.
+16:27
+Just over a month later, Poland was invaded. Their codebreakers fled and they had to leave behind the device
+16:33
+they'd invented to break into Enigma messages called The Bomba. The Brits were now on their own.
+16:39
+They were armed with the knowledge given to them by the poles, but now it was up to them to break the enigma.
+Trying To Decrypt An Enigma Message
+16:45
+Our producer has crafted an Enigma message, and I'm going to try and use all of the tips and tricks
+16:51
+that the British knew about to try and crack this thing, see if I can get it right. FAO Gregor.
+16:56
+Urgent decryption required. We're on it. Okay, so the first thing to look at is the top of the message.
+17:04
+By the 1940s, the Germans quickly realized that encrypting three letters twice at the start of each message was a terrible security flaw.
+17:12
+So they came up with a new system. After setting up the Enigma, the operator would now start each message with three random letters, for example VER,
+17:20
+and they would send them completely unencrypted, naked over the air, and then they would set their own window settings to those three letters.
+17:27
+So VER. With that the operator would pick another three random letters, say ITA.
+17:33
+But this time they would type them through the Enigma. These three letters were called the indicator, and after this
+17:40
+they would set their own window settings to the indicator so it reads ITA before finally typing through their actual message.
+17:48
+Likewise, when a receiver got the message, they would know that the first three letters VER came through unencrypted
+17:54
+and they would put them into their window settings and type out the next three letters in the message. They would get three decrypted letters out, ITA, and they would put those
+18:02
+into their window settings next. And now they were finally ready to read the rest of the message.
+18:08
+So a receiver is only able to decrypt the message if they could follow these two randomized checkpoints
+18:14
+at the start of each message, which should have been a great security addition, except people are terrible at being random.
+18:21
+People very rarely choose random letters. So, for instance, the German operator's
+18:29
+girlfriend's name was one that was chosen quite a lot. So for instance, one common one is Cilla.
+18:36
+Okay. - Which would be CIL. CIL. - Hence the term cillies.
+18:41
+And it wasn't just girlfriends names either. So if the window setting you send in plaintext is BER,
+18:48
+like you might be like, well, I wonder if they just chose Berlin. And so you would deduce, you just say
+18:55
+I guess the indicator is probably LIN. Okay. So my message starts with Lon.
+19:02
+So I'm guessing that the operator just chose London. So I know that CNG were encrypted
+19:09
+from DON. Okay, so here's a universal simulator for the Enigma.
+19:15
+And I can actually show you that if I put in the window settings on the rotors. LON, I know that if I type CNG,
+19:24
+I'm supposed to get out DON for London, but for this to work, I need to guess the correct rotor order out of all of the rotors,
+19:32
+and I need to get the correct ring settings and the plug board. So there's still a lot of guesswork to do for me to be able to get this right.
+19:39
+Okay, so I'm now going to record some me actually trying this DON no, DON no.
+19:49
+I'm, I'm struggling a bit. I won't lie, I am struggling a bit. But there was another way
+19:55
+the laziness of the operators came through. It was spotted by a British codebreaker, John Herivel.
+20:00
+He compared the messages from all over the network that came from many different operators, and he noticed something interesting.
+20:07
+Those three letters the operators started their messages with appeared random, but they all seemed to be a very similar random.
+20:15
+If you looked at just the first letter every operator chose across hundreds of messages. They weren't spread evenly across the alphabet.
+20:22
+They centered around a specific location. Same for the second letter and same for the third.
+20:27
+This happened because the operating procedure required the operators to shuffle the rotors from the default
+20:32
+key sheet settings for the day, those ring settings. And as it turned out, a significant number of operators
+20:38
+only shuffled their rotors by a position or two. It's sort of like how people lock their bikes and only move the rotors
+20:45
+a small amount. Following the same logic, Harrisville concluded that the clustering of window settings around
+20:50
+a particular set of three letters throughout the day actually revealed what the daily ring settings were,
+20:55
+so this became known as the Herivel tip. So I know that the Herivel tip or the ring settings are MON,
+21:01
+so I can convert them into, well, what that letter is in the alphabet. So M is the 13th, 15th is O, and then 14th is N.
+21:09
+I don't know this by heart, I googled it. Now I know that if I type DON, I'm supposed to be getting CNG out.
+21:15
+So now I've got to guess the rotor order for what rotors they were using today.
+21:20
+And there were some hints, but besides that, it was basically just a lot of brute force.
+21:26
+You just had to try them. Let's try one, two three. Don. No, no, not even close.
+21:34
+132 15 and 14 ZNG. Oh there we go.
+21:41
+ZNG sounds pretty close to CNG that we're supposed to get. I think I've guessed the rotor order to be one, three and two.
+21:48
+All that remains now is the plug board. So maybe a Z needs to become a C
+21:54
+a Z and a C. DON. CNG! There we go. So if I was to change my window settings now to Don, that's
+22:02
+that second step of randomization. ...THPKAKTQOG...
+22:10
+okay this kind of looks like text. Looks like James. A D and an E.
+22:15
+Haha, okay! Oh that took a while.
+22:21
+There was a lot of plug board guesses, but I think I finally figured it out. It says James is a legend.
+22:26
+James the producer. Okay, we got it. There we go. It took. How long did it take me?
+22:31
+Pencils down, everyone. One hour straight. That's tough. But that was actually an easy example.
+Who was Alan Turing?
+22:38
+Bletchley codebreakers would have been faced with figuring out multiple plug board swaps, and in a single message,
+22:43
+it would be highly unlikely to use both the Herivel tip and the cillies, even with the operator errors
+22:48
+to help them, codebreakers at Bletchley had to trawl through hundreds of messages each day just to get a clue of what the Enigma settings were.
+22:55
+And doing this manually was a huge task. To make it even harder, some networks were much more secure
+23:01
+and didn't have any of these human errors, making them far tougher to crack. So what Bletchley Park needed was an automated way to break these
+23:09
+Enigma messages, and that came from exploiting flaws in the machine itself.
+23:15
+You see, the weakest part of any encryption device is not the device itself. It's the human that's operating it. And kind of like the Enigma.
+23:22
+Human error is also one of the biggest reasons why our information leaks onto the internet. You can make an account
+23:28
+on the wrong website, or you give your phone number to the wrong company, and your data can end up in the hands of a data broker, who can then sell it on to scammers
+23:35
+who can impersonate you online or target you with AI powered scams. But you can protect yourself against this
+23:42
+with the help of today's sponsor, Incogni. Incogni contacts data brokers on your behalf, and then they request that those data brokers
+23:48
+delete your information. I've been using Incogni since June 2025, and they've completed 143 requests on my behalf.
+23:56
+And also it runs in the background. I don't need to do anything, so it constantly requests these removals.
+24:02
+On their unlimited plan you also get your own personalized risk assessment each month, which means you get practical steps on how you can improve your
+24:10
+online privacy. They also have an exposure scanner, which finds wherever your personal info shows up online,
+24:16
+and they put it all in one place so that you can then choose what you want to take down with the help of Incognis human removal specialists.
+24:23
+To get your data off the market today, you can go to Incogni.com/Veritasium and use the code Veritasium to get 60% off their annual plan.
+24:31
+You can also click the link in the description or scan this QR code. So I want to thank incognito for sponsoring this part of the video.
+24:37
+And now back to breaking the Enigma. So Bletchley Park needed to develop a way to automate the breaking of Enigma.
+24:44
+And luckily for them, there was one man in particular who was uniquely qualified for the job.
+24:50
+Alan Turing had already gained fame for his paper on a device that since became known as a Turing machine,
+24:56
+so the British were quick to recruit him at Bletchley Park. When Turing arrived, he realized that if he could describe the process of breaking
+25:04
+the Enigma as a sequence of some logical tests, then he could theoretically devise a machine that would do the job for him.
+25:11
+So we're in hut eight, and this room is the one that apparently Alan Turing used as his office when he was
+25:18
+put in charge of the naval Enigma problem. They've changed a tin
+25:25
+tea mug to the radiator, which Alan Turing allegedly did.
+25:30
+I think what happened was that people would take his mug away to wash it up, and then he couldn't find it when he wanted it.
+25:38
+Can you tell me more about, like, what kind of a person he was? Really quite wicked sense of humor.
+25:44
+Very irreverent and very interesting as well to to talk to if you were interested in the right kind of thing.
+25:50
+So if you want to talk to him about a football game, then frankly, think again. But if you want to talk to him
+25:56
+about the possibility to build a machine that might be able to play a game of chess, he’d have lots to say about that.
+26:03
+To automatically break the enigma, Turing needed a logical test that a machine could perform some series of procedures, after which the machine would say,
+26:11
+oh no, these are not the Enigma settings. They're wrong. You should try something else. Or yes, these could be the correct Enigma settings.
+26:17
+Now you should try and decipher the message with them. The test that he ended up devising came from the fundamental flaw in the Enigma, and surprisingly, it
+26:25
+exploited some of the most unimportant and mundane messages that the Nazis were sending.
+How Enigma’s Flaws Were Exploited
+26:30
+Certain German outposts sent very similar messages at the same time every day, and that would be a weather report.
+26:36
+So, for example, if Bletchley Park intercepted a message every day at 6 a.m. from an operator in Biscay, the code breaker might reasonably
+26:44
+guess that somewhere inside this message, there would be text that says weather report Biscay, or in German, WETTERVORGERSAGEBISKAYA.
+26:52
+And there was a way to guess where that text was encrypted in the message. If I'm pressing an L, I can keep pressing the L on here,
+27:00
+and the L on the lamp panel will never light up.
+27:05
+You can't encrypt a key to become itself. No. Because the current can't flow back through the same wire,
+27:14
+it has to go through a different wire. That means I can take this word and I can shift it over the
+27:20
+enciphered text until I find a position where no letter is enciphered as itself. So if I start, for example, with W and Q aligned
+27:28
+so that the two messages align at the start and I scanned through here, this S is enciphered as itself.
+27:34
+So that isn't a possible solution. So I'm going to shift it one letter down and try again. Now I have a V enciphered as a V and an E enciphered as an E.
+27:42
+So this doesn't work. So I'm going to shift another position. Oh no I have an R enciphered as an R. So that doesn't work either I'm going to shift it
+27:49
+one more. That all looks good. So here we go. Bingo. Now there's no letter that is enciphered as itself.
+27:55
+So my guess is that this part of the enciphered text says weather report Biscay. And this guess at what the enciphered text actually represents
+28:03
+is called a crib. At Bletchley Park in hut eight they had what was called the cribbing room.
+28:09
+This is Jonah Weinbaum. He wrote his thesis on how the enigma was broken. And the cribbing room, their job was to identify good, strong,
+28:19
+consistent cribs, which consisted of either weather messages, patterns they had noticed across messages.
+28:27
+The usage of slang or shorthand. After Turing was sure that he had a crib that reasonably guessed
+28:33
+what the encrypted message stood for he started with his logical test. He assumed that at the start of each message,
+28:40
+the window settings for the Enigma were ZZZ or 26, 26, 26, and that the second rotor hadn't turned in this part of the message.
+28:48
+So as soon as the first letter is typed, the rightmost rotor turns to A or 1. At that position
+28:54
+typing a W in the machine outputs an R, and that means that with the Enigma machine in this particular state, W is wired to R, and R is wired to W.
+29:04
+As each letter is typed, the rightmost rotor moves one step forward, so when the window on the right
+29:09
+reads two, E and W are wired together, at three, it's T and I, and so on.
+29:16
+Now Turing notice that this encryption produced a kind of loop. For example, at position six, the Enigma machine maps R to Y,
+29:24
+but at 22 it maps Y to S, and at nine it maps R to S.
+29:29
+So Turing imagined taking a clone of the Enigma machine at each of these positions. Then the only difference between these machines is just the position
+29:37
+of that rightmost rotor. It's either 6, 9, or 22. Now look what happens if you wire these three machines back to back,
+29:44
+so that the output of Enigma 6 becomes the input of Enigma 22, and then the output of 22 becomes the input of nine.
+29:51
+If Turing hit the letter R on the first machine, it would output a Y. Then the second machine would then transform that
+29:57
+Y into an S, and the third machine would take that S back to an R, creating a perfect loop.
+30:02
+R turns back into R. Now for this to happen, the settings on these three Enigma machines have to match the settings
+30:09
+used to encrypt the original message, but if the settings don't match, for example, if the rotors used in the enigmas are different,
+30:16
+then the test is extremely unlikely to produce a loop and R should turn into a different letter instead.
+30:23
+This gave Turing the logical test he was after. Theoretically, he could create a machine that looks through all possible Enigma settings, such that
+30:30
+when you offset the first rotor by 6, 22, and 9 an R is transformed back into itself.
+30:37
+Now, out of millions of possible settings, there are multiple combinations that can transform an R back into itself
+30:43
+at positions 6, 22, and 9. Turing's test could return hundreds of false positives, so he needed more logical constraints,
+30:50
+which came in the form of more loops from that crib we saw earlier. Back in the message notice that R maps to W at position 1 and then W to E
+30:59
+right after that, and then goes E to O at position 8, O to S, and then back to R, which completes the loop.
+31:06
+Following this process, Turing built up an entire menu of these loops of logical constraints.
+31:11
+But this whole test rests on the assumption that we've guessed the right rotor order. Remember that the Germans had five rotors to choose from,
+31:19
+and they could slot any three of them into the machine in any order. That's 60 possible configurations.
+31:25
+So Turing's machines had to run through this entire process again and again for each rotor order.
+31:31
+And that still left one component unaccounted for, the plug board and the 150 trillion possible ways to hook it up.
+31:40
+But even though this number is ridiculously large, Turing found a simple way to isolate the plug board's effects.
+31:47
+Remember how a letter flows through the Enigma? First through the plug board, then through the rotors, then back out via the plug board again
+31:53
+so we can break each enigma into three steps. If you type an R into the Enigma, it first gets transformed
+32:00
+by the plug board to, for example, a Z and then that gets transformed by the rotors to a Q.
+32:05
+Now this Q again gets transformed by the plug board to an X. So X is the letter that flows into the second enigma.
+32:12
+But the plug board on the second enigma is set up in the same way. So it swaps that X back to a Q.
+32:18
+So Q goes to X goes to Q. In other words, back to back plug boards cancel each other out.
+32:24
+So we can actually simplify this long list of transformations to this.
+32:29
+That means Turing could treat any series of Enigma machines as the plug board on the way in. Then the combined effect of all the rotors
+32:36
+and then the plug board on the way out. But remember, with the correct settings, these three
+32:41
+Enigma machines transformed an R back into an R, which means if the first plug board transformed an R to a
+32:48
+Z on the way in, then the last plug board must have transformed a Z into an R on the way out.
+32:53
+So the three rotors alone must also create a loop, transforming that same letter Z back into itself with no plug board needed at all.
+33:02
+Much like the original loop through the three enigmas, Turing realized this formed the basis of a test, one that he could perform using a simple electrical circuit.
+33:10
+He'd start with a guess, say that R is plugged to Z, and set that wire live.
+33:15
+If the guess was correct, the three enigmas would transform that Z back to itself, leaving a single loop of live wires.
+33:22
+If the guest was wrong, it's likely that Z would loop back to a different letter, and that letter would loop round
+33:28
+to another and another. So current would keep looping around and around the circuit, setting multiple wires live.
+33:34
+But that would mean that R was simultaneously plugged into multiple letters, which is impossible.
+33:40
+This contradiction allowed him to rule out all these letters as a candidate for what R is connected
+33:45
+to on the plug board, and if all 26 wires went live, he knew that there was no possible plug board
+33:51
+configurations for that window setting, so his machine would move the rotors one step forward and start the test again.
+33:56
+There were also cases where 25 wires could light up, leaving just one dark. Since those 25 possibilities had all been ruled out,
+34:04
+that wire that didn't light up pointed to the only remaining candidate for are to be connected to on the plug board.
+34:10
+This was Turing's stroke of genius, even though there were 150 trillion ways to configure the blackboard.
+34:16
+Starting with this, one guess would allow his machine to rule out multiple possibilities or even reject incorrect
+34:22
+settings entirely. The guests didn't even have to be correct for this to work.
+Breaking Enigma - The Bombe
+34:27
+They did do this by hand. They did these contradictions, you know, on a piece of paper, following through what is implied.
+34:34
+But Turing designed this machine so that it was instantaneous, like it was at the speed,
+34:41
+not the speed of light. But the speed of electricity flowing in a wire. With the help of an engineer, Harold Keen, Turing brought his device to life.
+34:49
+Based on some of the ideas that they got from the Polish Cipher Bureau just before the war started, Turing and his colleagues
+34:57
+came up with this.
+35:04
+He called it The Bomb, named in honor of the Polish Bomba, the device that the Polish mathematicians invented to break
+35:11
+the earlier versions of Enigma.
+35:18
+First prototype, arrived in March of 1940, which in itself is a pretty startling achievement,
+35:24
+given the war only started in September 1939. Yeah. To get the civil service, to not only approve his design
+35:32
+and then to get the finance to be able to build the thing. Absolutely astonishing.
+35:37
+Anyway, this is essentially 36 Enigma machines working in parallel, working backwards.
+35:45
+So you start with an assumption that you've made that a certain piece of ciphertext represents certain plaintext meaning.
+35:54
+Give all that to the machine, let the machine go to work. And at the end of the process, the idea is you're going to derive
+36:03
+the key of the day that the original Enigma operator was using to encipher that message,
+36:10
+which means now you can read every message that that guy sent, not just the one that you're analyzing.
+36:16
+And so when we run the machine, we're hoping for a condition when every enigma will find
+36:22
+the answer it's been told to find all at the same exact instant.
+36:28
+And when that happens, you've essentially solve this equation and the machine will stop and give you an answer.
+36:34
+So what I'm going to do now is I'm going to run the machine. - Okay Let’s do it.
+36:41
+It's going to be quite loud.
+36:50
+Eventually you're going to get through all the combinations 26 times 26 times 26
+36:58
+17,500 or so. Yeah, it's going to take the machine about 13 minutes to go through all of those.
+37:07
+Right? And at some point, we're hoping that the machine is going to find an answer that works.
+37:13
+At which point it's going to come to a stop assuming the machine is actually working correctly.
+37:19
+What are the chances that it is working correctly? About 90%. Okay, to be fair, that's good.
+37:24
+It's better than my brain. -And mine. Okay, so what's going to happen?
+37:29
+Machines found a solution. Okay, there we go. And if you look at these drums on the right hand end, that's where the solutions are indicated.
+37:38
+These are called the indicator drums. It's the output from the machine. And if you look very closely you'll see a little pointer
+37:45
+on each of those drums pointing to the letters D, K and X. So that's the machine saying I think DKX is an answer.
+37:55
+Now I'm saying an answer, not the answer. The problem is that you might get multiple answers, because it's
+38:02
+quite possible you'll find several solutions to the equation. And there is a flaw hiding in Turing's original test.
+38:08
+Sometimes the machine would stop on what looked like a clean, valid loop, but in reality, that loop could be self-contradictory.
+38:15
+It might imply, for example, that R was plugged into both X and S on the plug board at once, which is impossible.
+38:21
+The machine had no way to catch this, and every time the bomb stopped and offered a solution, an operator would have to check it.
+38:28
+So if there were 100 stops, each of which might have taken 15 minutes to check, that's more than 24 hours of work, by which point
+38:35
+the Enigma settings would have already changed. The Bombe wasn't fast enough. By the time the first Bombe was operational,
+38:42
+the Nazis were already occupying Austria and Czechoslovakia, and they had invaded Poland,
+38:47
+killing hundreds of thousands in the process. Bletchley Park desperately needed a way to speed up The Bombe.
+38:53
+Turing had managed expectations, so it came as no great shock. After that a mathematician called Gordon Welchman comes into the story.
+39:01
+Welchman, another Cambridge mathematician, comes to Bletchley Park, working alongside Turing,
+39:08
+and he comes up with a brilliant modification. Welchman realized that guessing
+39:13
+R is plugged to Y is exactly the same as guessing that Y is plugged to R, so Welchman connected these two wires such that if one went live,
+39:20
+they both would. He would do the same for S and Y and R and S, and this made it more likely that a guess at the plug
+39:27
+board would set multiple wires live, so exactly the same input to the machine would rule out more potential plug board swaps,
+39:34
+and therefore drastically reduce the number of false positives. Instead of the machine stopping and giving you 100
+39:40
+possible solutions to check out, you only get four. Which means that process was so much slicker.
+39:48
+So welchman's improvement made the thing practical.
+39:53
+Welchman's modification became known as the diagonal board, and Turing figured out that in many cases,
+39:58
+the diagonal board could eliminate over 90% of false stops.
+40:03
+This new version of The Bombe was ready in August 1940, but by now France had fallen
+40:09
+along with Norway and Denmark. Britain was the last major power in Western Europe, and the Nazis had begun an aerial onslaught
+40:16
+trying to bring Britain to its knees.
+40:23
+We shall defend our island, whatever the cost. We shall fight on beaches.
+40:30
+Hitler knows if we can stand up to him all Europe may be freed.
+40:35
+During the Battle of Britain, when the question whether to commit
+40:41
+the last reserve squadrons of fighters to the air battle over over Britain, the Air Force commander
+40:48
+felt able to do that because the Enigma intelligence had reinforced his own perceptions about the balance of forces.
+40:59
+And we all know that the outcome of that battle was a victory for the British and a strategic defeat for the Germans.
+41:07
+By the end of 1941, the British had 16 Bombes in operation, six at Bletchley and ten in the nearby towns,
+41:13
+and they were routinely deciphering German Army and Luftwaffe Enigma traffic. This intelligence would soon help
+41:20
+turn the tide of the war in North Africa. Enigma decrypts reveal that the German army was critically short
+41:26
+of fuel and supplies. Armed with that knowledge, British General Bernard Montgomery launched the offensive
+41:32
+that culminated in the victory at the Second Battle of El Alamein in 1942.
+41:38
+What Turing did was so resilient to protocol changes
+The Naval Enigma
+41:44
+that it would have worked at any time prior to this. It is fundamental to the structure of the Enigma machine,
+41:52
+and it's so fundamental that they actually ultimately had to change the machine itself in order to try to avoid this, just to make it
+41:58
+like marginally more difficult for them to to continue doing by adding a fourth rotor.
+42:03
+And then even doing that was a nightmare for them, because you have to have it be back or it's compatible.
+42:09
+So it's like they kind of once Turing did that, it was like, game over. You either reinvent the entire machine or,
+42:15
+you know, prevent them from knowing any information whatsoever. The German Navy did just that.
+42:20
+They added a fourth rotor to the Naval Enigma machine, and they created three extra rotors to choose from.
+42:26
+Because of that, Turing had to invent a whole new statistical method to narrow down the choice of rotors,
+42:32
+and they also had to work with the Navy to capture key sheets and trick the Germans into revealing a crib.
+42:38
+And they had to call in the military to try to generate plaintext for them with gardening.
+42:43
+Well, sometimes if they were really struggling to get plaintext, like in the case of the blackout with the Naval Enigma,
+42:50
+they would basically tell them to seed mines in particular locations, and then those places would have
+42:55
+to go and clear them out. And so they would have to say the location. - Oh that’s genius!
+43:02
+Yeah. Oh, that's really cool. But even then, the codebreakers relied on the members of the British Navy
+43:08
+sacrificing their lives to capture vital intelligence from sinking U-boats. I am conscious all the time that codebreaking is not the same
+43:19
+as combat, and battles are not won by codebreakers sitting in rooms in the safety of Bletchley Park.
+43:28
+They're won by people at the sharp end of things. By 1943,
+43:33
+the Americans had joined the war and built over 100 Bombes of their own. You can see the turning point of the war being when the British
+43:43
+finally mastered the U-boat Enigma in 1943, the sinkings drop like a stone,
+43:51
+and instead the U-boat sinkings start to rise. And that's that's the point at which Germany has begun
+44:00
+to lose the war. I'm not trying to say that Germany lost the war solely because of the, U-boat thing.
+44:06
+I mean, obviously the Eastern Front was crucially important too but all these things conspired to mean that basically,
+44:13
+by the end of 1943, everybody apart from Adolf Hitler knew that the Germans were going to lose.
+44:19
+Enigma traffic from all Nazi forces was now being deciphered daily. This set the stage
+44:24
+for the D-Day landings in 1944 and the Allied invasion of Europe. Historians estimate that the breaking of Enigma shortened
+44:32
+the war by up to two years, and who knows how many lives had saved. Alan Turing's life story
+What did Alan Turing do after Bletchley Park?
+44:38
+is dominated by his sexuality and what happened to him.
+44:45
+Bearing in mind that being a practicing homosexual in the UK was still illegal for the whole of Alan Turing's lifetime.
+44:52
+That story is very strongly colored by the fact that Alan Turing took his own life. That tends to lead to a chain
+45:01
+of connections in people's minds, that that means that his whole life after World War II was on a downward spiral.
+45:09
+I have to say, I disagree. From 1945 through to 1950, he was involved in the most
+45:18
+exciting technology projects that the country had on offer. He was very frustrated from time to time because they weren't going fast enough.
+45:25
+You know, he was writing programs for computers that weren't yet being built. So I think he achieved a great deal in the postwar years.
+45:31
+And I have to say, I think that the end of his life does not actually define what happened before.
+45:38
+And I think that we're looking at it the wrong way. If we see him as some sort of martyr.
+45:45
+In 1944, Allied forces were preparing to invade Europe. But before they did, Churchill and Roosevelt
+45:51
+launched one of the most important misinformation campaigns in history. They leaked information to the Nazis
+45:56
+that they were going to land on a different beach. The deception plan about where the invasion of Europe
+46:02
+was going to take place, was it going to be in Normandy or was it going to be at the Pas-de-Calais?
+46:08
+But before the allies could land at Normandy, they needed to know whether this misinformation
+46:13
+campaign had actually worked. And that meant deciphering messages from Hitler himself.
+46:18
+Now that the enigma had been broken. That should have been easy. But Hitler actually didn't use Enigma.
+46:24
+He used a completely different encryption machine, one that the allies had never seen.
+46:30
+And while Enigma had a key space of around ten to the power of 23, this machine had a key space of ten to the power of 170.
+46:38
+That's greater than the number of atoms in the observable universe squared. To break this would require
+46:43
+a piece of genius that had been described as the greatest intellectual feat of World War Two, and the building
+46:49
+of an entirely new machine vastly more sophisticated than the Bombe. Yet you've probably never heard of the guy
+46:54
+who built it, or the codebreakers who made it possible. That's because this device was so important
+46:59
+during the Cold War that it was classified for decades after the bomb and the Enigma. If you want to hear about it. Let us know in the comments.
+47:09
+Hey, I just want to give a quick shout out to Bletchley Park, the National Museum of Computing and Sir Dermot Turing and every expert here
+47:16
+who has helped us make this video possible. If you're interested in visiting, all the links are in the description, so check that out.
+47:22
+One last thing, by the way, there's still a Naval Enigma message intercepted in the war that no one has been able to decrypt.
+47:28
+The ciphertext is in the description. Maybe you can break it. Let us know if you can.

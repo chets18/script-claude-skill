@@ -1,0 +1,53 @@
+HOOK FORMULA
+Opening move: Start with a second-person hypothetical placing viewers inside an experience.
+Promise type: What happens during the journey, and what is revealed at its deepest point?
+Payoff rule: Resolve the central question in the final quarter; connect it to a wider perspective.
+Openers: “If you dove into the Sun” (0:00); “keep going, you're passing through churning bubbles” (0:08).
+
+SPOKEN VOICE
+Average: 15.7 words/sentence; 5 fragments to 181 full units.
+Markers/min: so 1.65; but 1.54; actually 0.50; and then 0.50; really 0.39; very 0.33; just 0.33; wait 0.11.
+Intensifiers/adverbs: 1.21/min; “actually” 0.50/min as correction.
+Repetition: 3 immediate repeated-word pairs; emphasis, not stuttering.
+Contractions: Mostly.
+I/we/you: 11:92:49 (7%:61%:32%).
+Spoken references: “that can't be good” — quick reaction; “Really?!” — surprise cue; “Wait, why is it getting colder?” — curiosity reset; “Oh my God” — spontaneous reaction; “it's so complicated and so cool” — personal evaluation.
+
+WORD-CHOICE HABITS
+Says “dove into,” not “approached,” because it starts action.
+Says “churning,” not “moving,” because it adds motion.
+Says “throwing a tantrum,” not “becoming active,” because personification simplifies.
+Says “pinball machine,” not “repeated scattering,” because it makes motion visual.
+
+PERSONALITY MOVES
+Prior belief: 0 personal-history disclosures.
+Being wrong: No personal confession; corrections target common assumptions.
+Not knowing: About 2 acknowledgments near the ending; uncertainty becomes an open research question.
+Personality: curiosity, shared exploration, brief reactions.
+
+HUMOR AND FACT DELIVERY
+Humour: 7–9 beats; understatement, personification, irony, absurdity, unexpected comparisons.
+Facts/numbers: Mostly comparisons, analogies, human-scale references; some plain. Example: “London to Paris in two seconds” (4:31).
+
+STRUCTURE MAP
+Hook 6% > setup 12% > distance/probe 17% > sound 5% > storms 11% > surface 13% > trapped-light 7% > investigation 8% > core 7% > scale/lifespan 8% > conclusion 5% > CTA 1%.
+Re-hooks: About 9 resets; questions, contradictions, sudden stops, progressive reveals.
+
+ENDING AND CTA
+Ends with conceptual callback and wider perspective; no cliffhanger.
+CTA: Subscribe to support the show; 18:02 (99%); brief, casual, direct.
+Last sentence: Sponsor acknowledgment. “This episode was made possible by AT&T” (18:09).
+
+RULES FOR THE SCRIPT AI
+1. Open with a second-person hypothetical within 10 seconds. (high)
+2. Give the video one continuous framework with at least 3 stages. (high)
+3. Use at least 3 question-, contradiction-, or interruption-based re-hooks. (high)
+4. Follow technical explanations with a familiar comparison when useful. (high)
+5. Vary sentence length; put short reactions after discoveries. (high)
+6. Translate important measurements into recognizable comparisons. (high)
+7. Use personification selectively; preserve the mechanism. (medium)
+8. Resolve the question before the final 10%; put CTA after conclusion. (high)
+
+DO NOT COPY
+Do not force an imaginary journey onto subjects with no natural progression.
+Do not reproduce the show's branded sign-off, sponsor language, or host identity.

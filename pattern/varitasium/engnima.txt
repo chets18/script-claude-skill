@@ -1,0 +1,50 @@
+HOOK FORMULA
+Opening: Show an object; demonstrate before context.
+Promise: How does it work, and how can it be broken?
+Payoff: Solve the small puzzle by ~2.5% runtime; resolve the larger question, then open a harder mystery.
+Reference openers: “This is the Enigma”; “You'd never guess what it is.”
+
+SPOKEN VOICE
+Average: 14.9 words/sentence; ≥7 fragments : 555 full (~1:79; minimum).
+Markers/min: so 2.55; now 0.65; just 0.51; actually 0.40; okay/like 0.38 each; right 0.27.
+Intensifiers/adverbs: 0.95/min. Restarts: 11 (0.23/min); don't manufacture. Contractions: mostly.
+I/we/you: 36% / 22% / 42%.
+Spoken references: “open this up” — narrates action; “I'm struggling a bit” — admits difficulty; “I googled it” — admits lookup; “Pencils down, everyone” — marks result; “Bingo” — instant reaction.
+
+WORD-CHOICE HABITS
+Says “fanatics,” not “enthusiasts,” because it signals intensity.
+Says “naked,” not “unencrypted,” because it creates an image.
+Says “cillies,” not “predictable settings,” because labels stick.
+Says “crib,” not “clue,” because it names a method.
+Says “Bingo,” not “success,” because it sounds spontaneous.
+
+PERSONALITY MOVES
+Prior belief/surprise: 1 prediction visibly overturned in a demonstration.
+Not knowing: 2 “I don't know” uses; 1 explicit lookup admission.
+Difficulty: 1 sustained live attempt with failed guesses.
+
+HUMOR AND FACT DELIVERY
+Humor: 11 moments (~0.23/min); contrast, wordplay, self-deprecation, understatement.
+Facts: demonstrate, then explain with examples; escalate numbers by showing how components multiply. Use dates for chronology, comparisons for scale. Reference: “36 Enigma machines working in parallel.”
+
+STRUCTURE MAP
+Hook/demo 5% > foundations 17% > history/breakthrough 12% > live attempt 12% > sponsor/Turing setup 8% > logic/Bombe 28% > consequences 12% > final mystery 3% > CTA 1% (approx.).
+Re-hooks: ~15 (0.32/min); add an obstacle, prediction, “what if,” or reversal after a payoff.
+
+ENDING AND CTA
+Ends on an unresolved challenge. CTA at ~99%: decrypt its message and report back; casual, direct.
+Last sentence: open invitation — “Let us know if you can.”
+
+RULES FOR THE SCRIPT AI
+1. Open on a specific object or observable event; skip greetings. (high)
+2. Demonstrate the opening mechanism within 6% of runtime. (high)
+3. Give each technical principle one concrete example before defining it. (high)
+4. Re-hook every 3–4 minutes with a new obstacle or question. (medium)
+5. Include one genuine prediction or test the viewer can follow. (high)
+6. Admit uncertainty only when a real knowledge gap or attempt supports it. (high)
+7. Escalate at least 3 times from a solved problem to a harder constraint. (high)
+8. End with one specific challenge or next question, not a generic CTA. (high)
+
+DO NOT COPY
+Do not assume access to authentic hardware, museum locations or specialist interviewees.
+Do not imitate the live decryption attempt without a credible, demonstrable task.

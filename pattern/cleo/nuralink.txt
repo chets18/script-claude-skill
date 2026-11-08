@@ -1,0 +1,57 @@
+HOOK FORMULA
+- Starts with surprising action; no greeting or definition.
+- Promise: what is its significance beyond fantasy?
+- Payoff: answer practical questions mid-video; resolve deeper promise in final 15%, returning to initial belief.
+- “This robot is putting a computer chip into a human brain.”
+- “This story isn't about trying to make us more like machines.”
+
+SPOKEN VOICE
+- Average ~13.2 words/sentence; fragments ~1:15 full sentences (estimate).
+- Markers/min: so 1.53; you know 0.17; I think 0.23; kind of 0.17; right? 0.06.
+- Intensifiers/adverbs/min: really 0.85; actually 0.74; just 0.45; much 0.40; very 0.28.
+- Repetition: ~5 repeated-word pairs/17.7 min; emphasis plus speech artifacts.
+- Contractions: mostly. I/we/you ratio: 61:44:132.
+- “why is everything a fruit?” — comic self-interruption.
+- “I don't like it.” — blunt visceral reaction.
+- “That's way more recent than I thought.” — admits changed expectation.
+- “What am I looking at here?” — live curious reaction.
+- “Not today.” — dry comic boundary.
+
+WORD-CHOICE HABITS
+- says “squishy,” not “soft,” because tactile and immediate.
+- says “Whoa,” not “interesting,” because spontaneous reaction.
+- says “actually,” not “in fact,” because casual correction.
+- says “nosebleeds,” not “distant seats,” because spatial shorthand.
+- says “microphones,” not “sensors,” because familiar function.
+
+PERSONALITY MOVES
+- Prior belief: stated/revisited twice (3:58, 15:35).
+- Wrong/surprised: 2 corrections (5:19, 15:35).
+- Uncertainty: 4+ admissions (4:02, 14:22, 14:29, 17:05).
+
+HUMOR AND FACT DELIVERY
+- ~13 light beats/17.7 min (~0.7/min): reactions, absurd comparisons, asides.
+- Facts/numbers: mostly analogies; dates/labels plain. Reference: “as heavy as a supermarket chicken.”
+
+STRUCTURE MAP
+- Hook 6% > sensory setup 17% > misconception 8% > comparison ladder 21% > sponsor 6% > build/demo 13% > future/limits 14% > applications/payoff/CTA 15%.
+- Re-hooks: ~15/17.7 min (~70 sec apart): questions, contrasts, delayed reveals, “but” pivots.
+
+ENDING AND CTA
+- Thesis callback, then subscription ask; no cliffhanger.
+- CTA at 17:40/end: subscribe for more science/tech; soft, casual, benefit-led.
+- Last sentence: brief ask. Reference: “support our show by subscribing.”
+
+RULES FOR THE SCRIPT AI
+1. Open with a concrete action or surprising claim in sentence one. (high)
+2. State the central question within 30 seconds. (high)
+3. Revisit the narrator's starting belief in the final 15%. (high)
+4. Give each major technical idea one familiar analogy. (high)
+5. Use at least 3 genuine reaction lines per 10 minutes. (medium)
+6. Start each major section with a question, contrast, problem, or reveal. (high)
+7. Separate demonstrated facts from speculation; mark uncertainty. (high)
+8. Place a one-sentence thesis callback before the CTA. (high)
+
+DO NOT COPY
+- On-location access, expert interviews, and first-look demos require production resources.
+- The Mercury sponsor break depends on this speaker's brand deal and timing.

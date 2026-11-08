@@ -1,0 +1,53 @@
+HOOK FORMULA
+Opening: After sponsor disclosure, present a social anomaly; no greeting.
+Promise: Are the apparent wins real, and what explains them?
+Payoff: Reveal the mechanism at 5:50–6:41; then widen the stakes.
+References: “Small-time influencers placing huge weird bets” (0:08); “something about them seems off” (0:31).
+
+SPOKEN VOICE
+Average: ~16 words; fragments/full sentences ~1:8 (approximate).
+Markers/min: “I think” 0.24; “you know” 0.19; “so” 0.29; “really” 0.15; “actually” 0.10; “right?” 0.05; “okay” 0.05.
+Intensifiers/adverbs: “really” 0.15/min; “actually” 0.10/min; “incredibly” 0.
+Repetition/restarts: ~9 events (0.44/min); hesitations/emphasis.
+Contractions: Mostly.
+I/we/you: ~27:24:13.
+Spoken refs: “we had no idea what was happening” — confusion; “Guys, I figured it out” — discovery; “banging our heads into a wall” — physical frustration; “I took his notepad” — action; “I'd love to know more about that” — uncertainty.
+
+WORD-CHOICE HABITS
+Says “seems off,” not “fraudulent,” because delays the verdict.
+Says “huge weird bets,” not “unusual wagers,” because sounds conversational.
+Says “dummy site,” not “imitation platform,” because compresses judgment.
+Says “banging our heads into a wall,” not “struggling,” because physicalizes frustration.
+Says “dumb money,” not “inexperienced traders,” because creates a memorable label.
+
+PERSONALITY MOVES
+Surprise/opinion: ~5 moments (0.24/min); personalizes investigation.
+Admits ignorance: ~3 moments (0.15/min); e.g. “we had no idea what was happening” (4:54).
+Admits being wrong: No explicit personal belief reversal found.
+
+HUMOR AND FACT DELIVERY
+Humor: ~10 moments (0.48/min); absurdity, understatement, awkward asides. Ref: “Jesus won't return before GTA 6” (0:16).
+Facts: Plain numbers anchored by comparisons/examples: “almost $900,000” (6:59) versus “over $160,000” (7:06).
+
+STRUCTURE MAP
+Hook/teaser 10% > platform context 5% > sponsor 5% > fake-bet investigation 16% > influencer machinery 12% > covert payments 17% > insider-trading concerns 12% > economics/targeting 9% > consequences/wrap 13%.
+Re-hooks: ~13 (0.63/min); questions, contradictions and escalating reveals.
+
+ENDING AND CTA
+Ending: Reflective principle and callback; no cliffhanger or final ask.
+CTA: 1:53 (~9%): “Please check them both out”; soft. Sponsor CTA 3:54: “Start your Shopify store right now”; direct.
+Last sentence: Reflective metaphor/callback — “manufactured reality” (20:40).
+
+RULES FOR THE SCRIPT AI
+1. Open on one observable anomaly before explaining its cause. (high)
+2. Plant a contradiction within the first 40 seconds. (high)
+3. Frame the central mystery as one answerable question. (high)
+4. Demonstrate the mechanism with one concrete example before generalizing. (high)
+5. Answer the first mystery, then reveal at least two wider implications. (high)
+6. Add a fresh unanswered question roughly every 1–2 minutes. (high)
+7. Support major claims with a number, comparison or traceable example. (high)
+8. End with a general principle, not a forced cliffhanger. (high)
+
+DO NOT COPY
+Don't imitate newsroom authority or interview access without equivalent original reporting.
+Don't copy the long sponsor interruption; it depends on a commercial deal.

@@ -1,0 +1,52 @@
+HOOK FORMULA
+Opening: Dated historical scene plus unusual physical action; no greeting or definition.
+Promise: How does a small discovery become world-changing technology?
+Payoff: Answer through successive problems, proof, manufacturing and impact; resolve by final 5%.
+Refs: “In 1887, a young physics teacher”; “his homemade crossbow.”
+
+SPOKEN VOICE
+Average: ~16–18 words; fragments/full sentences ~1:5 (estimated; punctuation noisy).
+Markers/min: now 0.6; so 0.4; well 0.35; really 0.45; actually 0.16.
+Intensifiers: really ~0.45/min; actually ~0.16/min; incredibly 0.
+Repetition/restarts: ~8–10 events; triples actions for emphasis, with self-correction.
+Contractions: mostly.
+I/we/you: ~7:7:10; “you” mainly teaches through hypotheticals.
+Spoken refs: “That is cool” — spontaneous live reaction; “That's crazy” — casual surprise marker; “That couldn't be right” — immediate doubt expressed; “I would've thought” — prior expectation exposed; “I didn't expect it” — honest surprise admitted.
+
+WORD-CHOICE HABITS
+Says “homemade crossbow,” not “device,” because concrete visual.
+Says “barely hanging on,” not “loosely attached,” because adds tension.
+Says “wild goose chase,” not “unlikely project,” because familiar metaphor.
+Says “leaky truck,” not “signal attenuation,” because physical analogy.
+Says “Whoopie,” not “successful,” because human spontaneity.
+
+PERSONALITY MOVES
+Prior expectations: ~2 personal admissions; states assumptions before demonstrations.
+Admits wrong: no factual retraction; ~2 expectation corrections or surprises.
+Uncertainty: ~8 knowledge gaps/questions across the investigation.
+
+HUMOR AND FACT DELIVERY
+~15–20 light moments: situational interruption, dry anti-climax, absurd scale, cultural comparison, live-demo reactions. Facts: comparisons/analogies, then measurements; “mass of the observable universe.”
+
+STRUCTURE MAP
+Historical hook 6% > old-system problem 9% > alternative/obstacle 9% > scientific mechanism 22% > sponsor 4% > proof 4% > manufacturing 23% > digital impact 4% > modern factory 13% > reflection/CTA 6%.
+Re-hooks: ~20–25 (~0.6/min); solve one obstacle, expose the next question or failure.
+
+ENDING AND CTA
+Ends with philosophical reflection, then team appreciation and resource invitation; no callback or cliffhanger.
+CTA: requests comments for a follow-up at 32:48 (soft, casual); promotes newsletter/Q&A at 34:14 (casual).
+Last sentence: resource pointer — “you can find her Q&A right there.”
+
+RULES FOR THE SCRIPT AI
+1. Open with one concrete event before defining the subject. (high)
+2. Answer the hook question by the final 5% of runtime. (high)
+3. Explain each mechanism in demonstration, principle, application order. (high)
+4. Translate at least 3 abstract quantities into physical comparisons. (high)
+5. After each solution, introduce another obstacle at least 3 times. (high)
+6. Show one failed test or uncertain measurement before claiming success. (high)
+7. Alternate technical explanations with short human reactions at least 4 times. (medium)
+8. End with one broader takeaway after the technical payoff. (high)
+
+DO NOT COPY
+Crossbow, laser and factory demonstrations require specialist access, equipment and safety controls.
+The 81-second travel-eSIM sponsorship is presenter-specific and interrupts the proof sequence.
